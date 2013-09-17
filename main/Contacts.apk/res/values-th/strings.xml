@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="resource_app_name">Resource Browser</string>
-    <string name="resource_price_free">Free</string>
+    <string name="resource_price_free">ฟรี</string>
     <string name="resource_price_unit">MI Credits</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="sdcard_status_changed_dialog_title">SD card status changed</string>
