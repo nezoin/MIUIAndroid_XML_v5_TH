@@ -10,7 +10,7 @@
     <string name="show_dev_on">You are now a developer!</string>
     <string name="show_dev_already">No need, you are already a developer.</string>
     <string name="header_category_wireless_networks">WIRELESS &amp; NETWORKS</string>
-    <string name="header_category_device">DEVICE</string>
+    <string name="header_category_device">อุปกรณ์</string>
     <string name="header_category_personal">PERSONAL</string>
     <string name="header_category_system">SYSTEM</string>
     <string name="turn_on_radio">Turn on radio</string>
