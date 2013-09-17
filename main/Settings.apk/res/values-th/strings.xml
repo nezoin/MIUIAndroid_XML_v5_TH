@@ -2987,6 +2987,6 @@ Touch the Add contacts button to select the contacts you want to bind to this SI
     <string name="wifi_priority_changed" formatted="false">Priority old value=%s,new value=%s</string>
     <string name="wifi_configured_ap_list">Remembered access point list</string>
     <string name="wifi_priority_label">Priority</string>
-    <string name="change_data_conn_title">Change data connection</string>
+    <string name="change_data_conn_title">เปลี่ยนการเชื่อมต่อข้อมูล</string>
     <string name="change_data_conn_message">%1$s is not availible now, change the default data connection to %2$s?</string>
 </resources>
