@@ -26,7 +26,7 @@
     <string name="radioInfo_menu_getPDP">Get PDP list</string>
     <string name="radioInfo_service_in">In service</string>
     <string name="radioInfo_service_out">Out of service</string>
-    <string name="radioInfo_service_emergency">Emergency calls only</string>
+    <string name="radioInfo_service_emergency">โทรฉุกเฉินเท่านั้น</string>
     <string name="radioInfo_service_off">ปิดวิทยุ</string>
     <string name="radioInfo_roaming_in">โรมมิ่ง</string>
     <string name="radioInfo_roaming_not">ไม่ได้โรมมิ่ง</string>
