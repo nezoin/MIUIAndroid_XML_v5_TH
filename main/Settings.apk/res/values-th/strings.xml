@@ -3,10 +3,10 @@
 <resources>
     <string name="yes">ใช่</string>
     <string name="no">ไม่ใช่</string>
-    <string name="create">Create</string>
-    <string name="allow">Allow</string>
-    <string name="deny">Deny</string>
-    <string name="device_info_default">Unknown</string>
+    <string name="create">สร้าง</string>
+    <string name="allow">ยอมรับ</string>
+    <string name="deny">ปฏิเสธ</string>
+    <string name="device_info_default">ไม่รู้จัก</string>
     <string name="show_dev_on">You are now a developer!</string>
     <string name="show_dev_already">No need, you are already a developer.</string>
     <string name="header_category_wireless_networks">WIRELESS &amp; NETWORKS</string>
