@@ -6,7 +6,7 @@
     <string name="allow">ยอมรับ</string>
     <string name="deny">ปฏิเสธ</string>
     <string name="device_info_default">ไม่รู้จัก</string>
-    <string name="show_dev_on">You are now a developer!</string>
+    <string name="show_dev_on">ตอนนี้คุณเป็นนักพัฒนาแล้ว!</string>
     <string name="show_dev_already">No need, you are already a developer.</string>
     <string name="header_category_wireless_networks">ระบบไร้สายและเครือข่าย</string>
     <string name="header_category_device">อุปกรณ์</string>
