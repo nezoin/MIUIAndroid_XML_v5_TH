@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <string name="yes">Yes</string>
     <string name="no">ไม่ใช่</string>
+=======
+    <string name="yes">ใช่</string>
+    <string name="no">No</string>
+>>>>>>> 832e14beb4bc64bbe0c961da53d263bac6f87256
 =======
     <string name="yes">ใช่</string>
     <string name="no">No</string>
