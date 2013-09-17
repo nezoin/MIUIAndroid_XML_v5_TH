@@ -2081,11 +2081,11 @@ Note: Apps with the permission may cause system instability, loss of personal da
     <string name="multi_touch_points_category_title">Multi-touch points</string>
     <string name="multi_touch_points_preference">Reboot to enable</string>
     <string name="trackball_settings">Trackball</string>
-    <string name="status_bar_settings">Notifications</string>
+    <string name="status_bar_settings">การแจ้งเตือน</string>
     <string name="complete_settings">General settings</string>
     <string name="common_settings">Quick settings</string>
-    <string name="battery_settings">Battery</string>
-    <string name="battery_settings_title">Battery</string>
+    <string name="battery_settings">แบตเตอรี่</string>
+    <string name="battery_settings_title">แบตเตอรี่</string>
     <string name="battery_indicator_style">Battery indicator</string>
     <string name="power_usage_history">Battery use</string>
     <string name="default_usb_mode">USB connection</string>
