@@ -2442,11 +2442,11 @@ Are you sure you want to disable?"</string>
     <string name="bugreport_tool_log_toast">Log saved to %s</string>
     <string name="wifi_tether_setting_title">Basic settings</string>
     <string name="wifi_priority_settings_label">Priority settings</string>
-    <string name="audio_profile_settings_title">Audio profiles</string>
+    <string name="audio_profile_settings_title">โปรไฟล์เสียง</string>
     <string name="enable_wifi_display">Enable Wireless display</string>
     <string name="xiaomi_cloud_service">MiCloud</string>
     <string name="xiaomi_money_service">MiCredit</string>
-    <string name="wifi_auto_connect">Auto connect</string>
+    <string name="wifi_auto_connect">เชื่อมต่ออัตโนมัติ</string>
     <string name="wifi_share">Share public WLAN</string>
     <string name="wifi_share_turn_on">WLAN sharing on</string>
     <string name="wifi_share_turn_off">WLAN sharing off</string>
