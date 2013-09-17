@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="yes">ใช่</string>
-    <string name="no">ไม่ใช่</string>
+    <string name="no">No</string>
     <string name="create">สร้าง</string>
     <string name="allow">ยอมรับ</string>
     <string name="deny">ปฏิเสธ</string>
