@@ -1,8 +1,8 @@
 MIUI V5 - THAI LANGUAGE
-
-Based on MIUI v5 3.9.16 MTK Chipset
-
-
+ 
+Based on MIUI v5 3.9.13 MTK Chipset
+ 
+ 
 ---------------------------------------------------------------------------------------------
 
 MIUI v5 - MIUIAndroid XML Strings
