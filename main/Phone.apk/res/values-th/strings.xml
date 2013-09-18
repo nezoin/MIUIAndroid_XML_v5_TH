@@ -12,11 +12,11 @@
   <string name="add_vm_number_str">Add number</string>
   <string name="add_zero_prefix">Add 0 prefix while dialing mobile number</string>
   <string name="adding_fdn_contact">Adding fixed dialing number…</string>
-  <string name="additional_cdma_call_settings">Additional CDMA call settings</string>
-  <string name="additional_gsm_call_settings">Additional settings</string>
-  <string name="administrative_disable">Administrative disabled</string>
-  <string name="administrative_enable">Administrative enabled</string>
-  <string name="advanced_settings">Optional settings</string>
+  <string name="additional_cdma_call_settings">การ​ตั้ง​ค่า​โทร CDMA ​เพิ่ม​เติม</string>
+  <string name="additional_gsm_call_settings">การ​ตั้ง​ค่า​เพิ่ม​เติม</string>
+  <string name="administrative_disable">เลิก​ใช้​การ​จัดการ</string>
+  <string name="administrative_enable">เปิด​ใช้​การ​จัดการ</string>
+  <string name="advanced_settings">การ​ตั้ง​ค่า​ขั้นสูง</string>
   <string name="advanced_settings_container">advanced settings container</string>
   <string name="advanced_settings_hide">▽ Touch to hide all</string>
   <string name="advanced_settings_show">▷ Touch to show all</string>
