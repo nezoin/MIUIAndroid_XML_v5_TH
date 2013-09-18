@@ -12,4 +12,13 @@
         <item quantity="other">การทำงานที่เลือกจะไม่สามารถใช้ได้เมื่ออยู่ในโหมดติดต่อกลับฉุกเฉิน โทรศัพท์จะอยู่ในโหมดนี้เป็นเวลา %s นาที คุณต้องการจะออกเดี๋ยวนี้หรือไม่</item>
         <item quantity="one">การทำงานที่เลือกจะไม่สามารถใช้ได้เมื่ออยู่ในโหมดติดต่อกลับฉุกเฉิน โทรศัพท์จะอยู่ในโหมดนี้เป็นเวลา %s นาที คุณต้องการจะออกเดี๋ยวนี้หรือไม่</item>
     </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">" %1$d items selected"</item>
+        <item quantity="zero">เลือก %1$d รายการ</item>
+        <item quantity="one">เลือก %1$d รายการ</item>
+    </plurals>
+    <plurals name="sim_picker_timer_miui">
+        <item quantity="other">(%1$d วินาที)</item>
+        <item quantity="one">(%1$d วินาที)</item>
+    </plurals>
 </resources>
