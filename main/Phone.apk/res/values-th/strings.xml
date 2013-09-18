@@ -6,7 +6,7 @@
   <string name="accessibility_call_muted">Call muted.</string>
   <string name="accessibility_speakerphone_enabled">Speakerphone enabled.</string>
   <string name="addSimEntries">Add SIM Contact</string>
-  <string name="add_button_miui">Add</string>
+  <string name="add_button_miui">เพิ่ม</string>
   <string name="add_fdn_contact">Add fixed dialing number</string>
   <string name="add_sip_account">Add account</string>
   <string name="add_vm_number_str">Add number</string>
