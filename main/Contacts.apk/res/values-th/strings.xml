@@ -1007,7 +1007,7 @@ If you are using the contact sync service, the contact info in the cloud will al
     <string name="dlg_remove_blacklist">Are you sure to remove this number from blacklist?</string>
     <string name="profile_name">My profile</string>
     <string name="profile_name_photo">I</string>
-    <string name="toast_copying">Copying…</string>
-    <string name="toast_copy_done">Copy done</string>
-    <string name="call_record_setting_miui">Record settings</string>
+    <string name="toast_copying">กำลังคัดลอก…</string>
+    <string name="toast_copy_done">คัดลอกเสร็จแล้ว</string>
+    <string name="call_record_setting_miui">ตั้งค่าการบันทึก</string>
 </resources>
