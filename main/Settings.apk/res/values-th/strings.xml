@@ -2349,7 +2349,7 @@ Try the following:
 5) Access mounted device mtpfs /media/mtp via File explorer; same as local directory
 6) Uninstall device fusermount -u /media/mtp
  Note: For ubuntu 8.04 environment"</string>
-    <string name="msd_install_status_undo">Install driver</string>
+    <string name="msd_install_status_undo">ติดตั้งไดฟเวอร์</string>
     <string name="msd_install_status_done">Driver installed.</string>
     <string name="msd_driver_download">Download driver</string>
     <string name="msd_driver_windows_xp_download">"For PCs, download the driver and click Setup.exe to install
